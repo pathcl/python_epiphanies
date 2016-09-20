@@ -1,4 +1,4 @@
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/pathcl/python_epiphanies)
 
 Python Epiphanies
 ==========
